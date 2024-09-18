@@ -43,12 +43,12 @@ The following dependencies are required to run the application:
 - `json`: For working with JSON files to store speed data.
 - `os`: Used to interact with the file system (checking file existence, etc.).
 
-## Example `requirements.txt`:
+## `requirements.txt`:
 
 ```
 fastapi==0.95.0
 uvicorn==0.21.1
-paho-mqtt==1.6.1
+paho-mqtt==2.1.0
 ```
 
 ## Running the Application

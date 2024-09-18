@@ -1,4 +1,4 @@
-### speedometer for wirin project demo
+# Speedometer for wirin project demo
 
 *Note : use the real_time_app for the fastapi application with MQTT over Websockets service, which provides real time updation of speed data as per the user.*
 Here is the README file for the GitHub repository, along with instructions on package installation and usage:

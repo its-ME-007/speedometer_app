@@ -68,10 +68,4 @@ This will start the server on `http://localhost:8000/`.
 
 4. Open your browser and navigate to `http://localhost:8000/` to view the real-time speed monitoring dashboard.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-This README assumes both the `real_time_app.py` and `publisher.py` are part of the repository. Let me know if you want any further modifications!
+5. The value of speed updates as you send values from the terminal.
